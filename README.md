@@ -1,0 +1,2 @@
+# BiliMac
+由Windows版哔哩哔哩官方客户端移植的Mac版客户端
